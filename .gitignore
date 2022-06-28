@@ -2,5 +2,5 @@ key.json
 *.tfstste
 *.backup
 terraform.tfstate
-.vscode
-.terraform*
+**/vscode
+**/terraform*
